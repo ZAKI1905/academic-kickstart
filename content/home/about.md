@@ -23,7 +23,7 @@ weight = 5
 
 [[education.courses]]
   course = "BSc in Physics"
-  institution = "Sharif Institute of Technology"
+  institution = "Sharif University of Technology"
   year = 2012
  
 +++
