@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Institute of Theoretical Physics, CAS", url = "http://english.itp.cas.cn/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Photo Low.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "zaki1905@gmail.com"
   address = "Zhong Guan Cun East Street 55 #, P. O. Box 2735, Beijing 100190, P. R. China"
   office_hours = ""
