@@ -20,7 +20,7 @@ publication_short = "In *Phys. Lett. B*"
 
 abstract = "We study a gauge $B-L$ extension of the standard model of quarks and leptons with unconventional charges for the singlet right-handed neutrinos, and extra singlet scalars, such that a residual $Z_3$ symmetry remains after the spontaneous breaking of $B-L$. We discuss the phenomenological consequences of this scenario, including the possibility of long-lived self-interacting dark matter and $Z'$ collider signatures."
 
-abstract_short = "We study a gauge $B-L$ extension of the standard model of quarks and leptons with unconventional charges for the singlet right-handed neutrinos, and extra singlet scalars, such that a residual $Z_3$ symmetry remains after the spontaneous breaking of $B-L$."
+abstract_short = ""
 
 selected = true
 
