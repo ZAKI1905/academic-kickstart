@@ -25,9 +25,9 @@ weight = 5
   course = "BSc in Physics"
   institution = "Sharif University of Technology"
   year = 2012
- 
+
 +++
 
 # Biography
 
-Mohammadreza Zakeri is a postdoc researcher at the Institute of Theoretical Physics (ITP), Chinese Academy of Sciences (CAS).
+Mohammadreza Zakeri is a postdoc researcher at the Institute of Theoretical Physics (ITP), Chinese Academy of Sciences (CAS). He researches dark matter and neutrino by making models beyond the Standard Model (SM).
