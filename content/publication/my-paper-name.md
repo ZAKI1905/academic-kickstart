@@ -1,8 +1,3 @@
----
-title: "My Paper Name"
-date: 2018-09-17T17:25:48+08:00
-draft: true
----
 +++
 title = "SU(2)N  model of vector dark matter with a leptonic connection'"
 date = "2014-09-03"
