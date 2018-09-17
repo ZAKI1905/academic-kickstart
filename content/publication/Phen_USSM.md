@@ -22,7 +22,7 @@ abstract = "We study the 2010 specific version of the 2002 proposed U$(1)_X$ ext
 
 abstract_short = ""
 
-selected = true
+selected = false
 
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/1603.04778.pdf"
