@@ -25,8 +25,22 @@ abstract_short = ""
 selected = true
 
 # Links (optional).
+
+[[url_custom]]
+name = "arXiv"
+url = "http://arxiv.org/abs/arXiv:1511.07458"
+
 url_pdf = "https://arxiv.org/pdf/1511.07458.pdf"
-url_preprint = "http://arxiv.org/abs/arXiv:1511.07458"
+
+[[url_custom]]
+name = "INSPIRE"
+url = "http://inspirehep.net/record/1406144"
+
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1103/PhysRevD.93.115019"
+
+
 url_code = ""
 url_dataset = ""
 url_project = ""
