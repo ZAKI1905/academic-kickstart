@@ -1,6 +1,6 @@
 +++
 title = "Verifiable Associated Processes from Radiative Lepton Masses with Dark Matter"
-date = "2016-06-15"
+date = "2015-11-23"
 
 authors = ["Sean Fraser", "Ernest Ma", "Mohammadreza Zakeri"]
 

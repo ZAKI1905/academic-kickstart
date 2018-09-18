@@ -1,6 +1,6 @@
 +++
 title = "Phenomenology of the Utilitarian Supersymmetric Standard Model"
-date = "2016-06-11"
+date = "2016-03-15"
 
 authors = ["Sean Fraser", "Corey Kownacki", "Ernest Ma", "Nicholas Pollard", "Oleg Popov", "Mohammadreza Zakeri"]
 

@@ -1,6 +1,6 @@
 +++
 title = "Gauge $B-L$ model of radiative neutrino mass with multipartite dark matter"
-date = "2016-09-7"
+date = "2016-05-3"
 
 authors = ["Ernest Ma", "Nicholas Pollard", "Oleg Popov", "Mohammadreza Zakeri"]
 
