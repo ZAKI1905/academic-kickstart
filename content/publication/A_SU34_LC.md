@@ -31,9 +31,11 @@ url_preprint = "http://arxiv.org/abs/arXiv:1801.01379"
 [[url_custom]]
 name = "arXiv"
 url = "http://arxiv.org/abs/arXiv:1801.01379"
+
 [[url_custom]]
 name = "inSPIRE"
 url = "http://inspirehep.net/record/1646269"
+
 [[url_custom]]
 name = "DOI"
 url = "https://doi.org/10.1016/j.nuclphysb.2018.01.029"
