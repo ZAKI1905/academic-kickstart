@@ -25,8 +25,19 @@ abstract_short = ""
 selected = false
 
 # Links (optional).
+[[url_custom]]
+name = "arXiv"
+url = "http://arxiv.org/abs/arXiv:1701.07043"
+
+[[url_custom]]
+name = "INSPIRE"
+url = "http://inspirehep.net/record/1510575"
+
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1016/j.physletb.2017.03.073"
+
 url_pdf = "https://arxiv.org/pdf/1701.07043.pdf"
-url_preprint = "http://arxiv.org/abs/arXiv:1701.07043"
 url_code = ""
 url_dataset = ""
 url_project = ""
