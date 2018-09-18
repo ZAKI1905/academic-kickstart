@@ -1,6 +1,6 @@
 +++
 title = "Alternative $[SU(3)]^4$ model of leptonic color and dark matter"
-date = "2018-01-2"
+date = "2018-01-02"
 
 authors = ["Corey Kownacki", "Ernest Ma", "Nicholas Pollard",  "Oleg Popov",  "Mohammadreza Zakeri"]
 

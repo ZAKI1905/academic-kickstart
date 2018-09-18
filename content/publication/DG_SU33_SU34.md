@@ -1,6 +1,6 @@
 +++
 title = "Dark revelations of the $[SU(3)]^3$ and $[SU(3)]^4$ gauge extensions of the standard model"
-date = "2017-10-2"
+date = "2017-10-02"
 
 authors = ["Corey Kownacki", "Ernest Ma", "Nicholas Pollard",  "Oleg Popov",  "Mohammadreza Zakeri"]
 

@@ -1,6 +1,6 @@
 +++
 title = "Multipartite Dark Matter in $SU(2)_N$ extension of Standard Model and signatures at the LHC"
-date = "2018-06-4"
+date = "2018-06-04"
 
 authors = ["Basabendu Barman", "Subhaditya Bhattacharya", "Mohammadreza Zakeri"]
 
