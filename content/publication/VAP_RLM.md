@@ -31,6 +31,10 @@ name = "arXiv"
 url = "http://arxiv.org/abs/arXiv:1511.07458"
 
 [[url_custom]]
+name = "PDF"
+url = "https://arxiv.org/pdf/1511.07458.pdf"
+
+[[url_custom]]
 name = "INSPIRE"
 url = "http://inspirehep.net/record/1406144"
 
@@ -38,7 +42,7 @@ url = "http://inspirehep.net/record/1406144"
 name = "DOI"
 url = "https://doi.org/10.1103/PhysRevD.93.115019"
 
-url_pdf = "https://arxiv.org/pdf/1511.07458.pdf"
+url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

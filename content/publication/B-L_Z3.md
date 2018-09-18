@@ -25,8 +25,24 @@ abstract_short = ""
 selected = true
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1507.03943.pdf"
-url_preprint = "https://arxiv.org/abs/1507.03943"
+[[url_custom]]
+name = "arXiv"
+url = "http://arxiv.org/abs/arXiv:1507.03943"
+
+[[url_custom]]
+name = "PDF"
+url = "https://arxiv.org/pdf/1507.03943.pdf"
+
+[[url_custom]]
+name = "INSPIRE"
+url = "http://inspirehep.net/record/1382807"
+
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1016/j.physletb.2015.09.010"
+
+url_pdf = ""
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

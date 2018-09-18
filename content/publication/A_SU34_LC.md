@@ -25,13 +25,24 @@ abstract_short = ""
 selected = false
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1801.01379.pdf"
-url_preprint = "http://arxiv.org/abs/arXiv:1801.01379"
-
 [[url_custom]]
 name = "arXiv"
-url = "https://arxiv.org/abs/1509.07525"
+url = "http://arxiv.org/abs/arXiv:1801.01379"
 
+[[url_custom]]
+name = "PDF"
+url = "https://arxiv.org/pdf/1801.01379.pdf"
+
+[[url_custom]]
+name = "INSPIRE"
+url = "http://inspirehep.net/record/1646269"
+
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1016/j.nuclphysb.2018.01.029"
+
+url_pdf = ""
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

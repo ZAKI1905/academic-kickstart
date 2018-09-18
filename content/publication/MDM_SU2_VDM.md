@@ -25,8 +25,24 @@ abstract_short = ""
 selected = false
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1806.01129.pdf"
-url_preprint = "http://arxiv.org/abs/arXiv:1806.01129"
+[[url_custom]]
+name = "arXiv"
+url = "http://arxiv.org/abs/arXiv:1806.01129"
+
+[[url_custom]]
+name = "PDF"
+url = "https://arxiv.org/pdf/1806.01129.pdf"
+
+[[url_custom]]
+name = "INSPIRE"
+url = "http://inspirehep.net/record/1676252"
+
+[[url_custom]]
+name = "DOI"
+url = "https://doi.org/10.1088/1475-7516/2018/09/023"
+
+url_pdf = ""
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
